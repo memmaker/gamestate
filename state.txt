@@ -3,4 +3,4 @@ location: roadside tavern, Edge of the King's Forest
 character: Garret, human thief
 inventory: empty
 scene: seated alone at a corner table at dusk; Garret attempted to seize the sealed letter and flee, but the stranger stopped him before he could get away; several patrons are now watching
-pending_action: Garret attempted to stealthily take the sealed letter and silently leave the tavern; the attempt failed, and the stranger remains alert with the letter still on the table
+pending_action: Garret kicked at the stranger's groin while the stranger had hold of Garret's wrist; the kick failed, and the stranger remains in control; the sealed letter is still on the table
