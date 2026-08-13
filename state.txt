@@ -1,1 +1,1 @@
-health: wounded
+health: fine
