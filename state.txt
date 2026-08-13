@@ -1,1 +1,5 @@
 health: fine
+location: roadside tavern, Edge of the King's Forest
+character: Garret, human thief
+inventory: empty
+scene: seated alone at a corner table at dusk
