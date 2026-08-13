@@ -2,5 +2,5 @@ health: fine
 location: roadside tavern, Edge of the King's Forest
 character: Garret, human thief
 inventory: empty
-scene: seated alone at a corner table at dusk; a cloaked stranger has caught Garret's wrist after an attempted theft; Garret attempted to draw and strike with his dagger, but the attack failed
+scene: seated alone at a corner table at dusk; a cloaked stranger has caught Garret's wrist after an attempted theft; Garret tried to strike the stranger's eye with his left hand, but the attack failed
 pending_action: the stranger has the advantage and Garret's dagger remains sheathed
