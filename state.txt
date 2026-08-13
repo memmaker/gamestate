@@ -2,4 +2,5 @@ health: fine
 location: roadside tavern, Edge of the King's Forest
 character: Garret, human thief
 inventory: empty
-scene: seated alone at a corner table at dusk
+scene: seated alone at a corner table at dusk; a cloaked stranger has approached and is offering Garret silver to deliver a sealed letter
+pending_action: Garret is considering stealing the sealed letter and running
