@@ -2,5 +2,5 @@ health: fine
 location: roadside tavern, Edge of the King's Forest
 character: Garret, human thief
 inventory: empty
-scene: seated alone at a corner table at dusk; a cloaked stranger has caught Garret's wrist after a confrontation; Garret attempted to break free and arm himself, but failed
-pending_action: the stranger still has the advantage; nearby patrons are beginning to notice the confrontation
+scene: seated alone at a corner table at dusk; Garret attempted to seize the sealed letter and flee, but the stranger stopped him before he could get away; several patrons are now watching
+pending_action: the stranger has the advantage; the sealed letter remains on the table
